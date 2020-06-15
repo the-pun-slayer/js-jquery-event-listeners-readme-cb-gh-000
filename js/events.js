@@ -28,6 +28,6 @@ function submitIt() {
 
 $(document).ready(function(){
 
-function getIt()
+function getIt();
 
 });
