@@ -28,6 +28,7 @@ function submitIt() {
 
 $(document).ready(function(){
 
-function getIt();
+ getIt();
+ 
 
 });
